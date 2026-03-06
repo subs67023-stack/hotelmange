@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HotelManager</string>
+    <string name="title_activity_main">HotelManager</string>
+    <string name="package_name">com.hotelmanager.app</string>
+    <string name="custom_url_scheme">com.hotelmanager.app</string>
+</resources>

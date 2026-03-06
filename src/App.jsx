@@ -9,6 +9,7 @@ import MarketExpenses from './pages/MarketExpenses';
 import Pigmi from './pages/Pigmi';
 import Employees from './pages/Employees';
 import Reports from './pages/Reports';
+import AdBanner from './components/AdBanner';
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="reports" element={<Reports />} />
         </Route>
       </Routes>
+      <AdBanner />
     </AppProvider>
   );
 }
